@@ -58,7 +58,7 @@ The dataset includes ride booking records with the following key fields:
 ### **Booking Success Rate**
 - **DAX Formula:**
   ```DAX
-  Success Rate = (CALCULATE(COUNT('Table'[Booking_Status]), 'Table'[Booking_Status] = "Success") / COUNT('Table'[Booking_Status])) * 100
+  Success Rate = (CALCULATE(COUNT('Table'[Booking_Status]), 'Table'[Booking_Status] = "Success") / COUNT('Table'[Booking_Status]))
   ```
 - Displays the percentage of successful bookings.
 
