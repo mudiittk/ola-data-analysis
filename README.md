@@ -5,10 +5,10 @@ This Power BI project analyzes ride booking data to uncover trends in booking su
 and revenue distribution. The dashboard provides insights into key metrics such as top vehicle types, booking patterns, and fare performance.
 
 ## Files in the repository
---**Bookings.xlsx** – Contains the actual ride booking data.
---**Ola-Slidesuhub.pptx**– Used as a background canvas in Power BI.
---**PostgreSQL File** – Stores the uploaded dataset and includes SQL queries.
---**Ola Bookings Analysis.pbix**– The main visualization dashboard.
+-**Bookings.xlsx** – Contains the actual ride booking data.
+-**Ola-Slidesuhub.pptx**– Used as a background canvas in Power BI.
+-**PostgreSQL File** – Stores the uploaded dataset and includes SQL queries.
+-**Ola Bookings Analysis.pbix**– The main visualization dashboard.
 
 ## Data Sources
 The dataset includes ride booking records with the following key fields:
