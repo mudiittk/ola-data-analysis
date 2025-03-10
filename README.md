@@ -1,4 +1,4 @@
-# Ride Booking Analysis - Power BI Dashboard
+# Ola Ride Booking Analysis - Power BI Dashboard
 
 ## Project Overview
 This Power BI project analyzes ride booking data to uncover trends in booking success rates, payment methods, ride distances, 
