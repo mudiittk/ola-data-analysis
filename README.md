@@ -3,6 +3,8 @@
 ## Project Overview
 This Power BI project analyzes ride booking data to uncover trends in booking success rates, payment methods, ride distances, 
 and revenue distribution. The dashboard provides insights into key metrics such as top vehicle types, total booking value, success and cancellation rates.
+![image](https://github.com/user-attachments/assets/74d5f244-3920-4424-a033-68bbc45898f5)
+
 
 ## Files in the repository
 - **Bookings.xlsx**: Contains the actual ride booking data.
